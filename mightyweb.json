@@ -6,7 +6,7 @@
         "isJavascriptEnable": "true",
         "isSplashScreen": "true",
         "isZoomFunctionality": "false",
-        "navigationStyle": "bottom_navigation",
+        "navigationStyle": "sidedrawer",
         "header_style": "left",
         "is_walkthrough": "true",
         "is_webrtc": "false",
@@ -49,44 +49,25 @@
     },
     "menu_style": [
         {
-            "id": "1",
-            "title": "Home",
-            "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040510-ic_home.png",
-            "url": "https:\/\/meetmighty.com\/mightywebbuilder",
+            "id": "7",
+            "title": "About",
+            "type": "sidedrawer",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618655222-icon_4.png",
+            "url": "https:\/\/madtech.cc",
             "status": "1",
             "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "2",
-            "title": "Search",
-            "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040523-ic_search.png",
-            "url": "https:\/\/codecanyon.net\/user\/meetmighty\/portfolio",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "3",
-            "title": "Cart",
-            "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040544-ic_cart.png",
-            "url": "https:\/\/www.myntra.com\/",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "4",
-            "title": "Settings",
-            "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040565-ic_settings.png",
-            "url": "https:\/\/www.google.com\/",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
+            "children": [
+                {
+                    "id": "8",
+                    "title": "Info",
+                    "type": "sidedrawer",
+                    "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/default.png",
+                    "url": "https:\/\/madtech.cc",
+                    "status": "1",
+                    "parent_id": "7",
+                    "children": []
+                }
+            ]
         }
     ],
     "header_icon": {
