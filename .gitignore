@@ -1,6 +1,1 @@
-*
-
-# But not these files...
-!.gitignore
-!mightyweb.json
-!app_logo.png
+mightyweb-main.json
