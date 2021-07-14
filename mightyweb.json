@@ -14,7 +14,8 @@
         "floating_button_style": "circular",
         "is_pull_refresh": "true",
         "tab_style": "tab_with_icon",
-        "clear_cookie": "false"
+        "clear_cookie": "false",
+        "app_logo": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/app_logo.png"
     },
     "admob": {
         "admobBannerID": "",
