@@ -6,14 +6,14 @@
         "isJavascriptEnable": "true",
         "isSplashScreen": "true",
         "isZoomFunctionality": "false",
-        "navigationStyle": "sidedrawer",
+        "navigationStyle": "tabs",
         "header_style": "left",
         "is_walkthrough": "true",
         "is_webrtc": "false",
         "is_floating_button": "false",
         "floating_button_style": "circular",
         "is_pull_refresh": "true",
-        "tab_style": "simple_tab",
+        "tab_style": "tab_with_icon",
         "clear_cookie": "false",
         "app_logo": "http:\/\/mightyweb.apps\/upload\/app_logo.png"
     },
@@ -48,29 +48,6 @@
         "app_id": "xxxxx",
         "rest_api_key": "xxxxx"
     },
-    "menu_style": [
-        {
-            "id": "7",
-            "title": "About",
-            "type": "sidedrawer",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/1618655222-icon_4.png",
-            "url": "https:\/\/madtech.cc",
-            "status": "1",
-            "parent_id": "0",
-            "children": [
-                {
-                    "id": "8",
-                    "title": "Info",
-                    "type": "sidedrawer",
-                    "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/default.png",
-                    "url": "https:\/\/madtech.cc",
-                    "status": "1",
-                    "parent_id": "7",
-                    "children": []
-                }
-            ]
-        }
-    ],
     "header_icon": {
         "lefticon": [
             {
@@ -399,8 +376,8 @@
         {
             "id": "1",
             "title": "Web Browser",
-            "android": "WebviewApp",
-            "ios": "WebviewApp",
+            "android": "webview-ges-android",
+            "ios": "webview-ges-ios",
             "status": "1"
         }
     ]
