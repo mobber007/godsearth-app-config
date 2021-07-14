@@ -10,11 +10,12 @@
         "header_style": "left",
         "is_walkthrough": "true",
         "is_webrtc": "false",
-        "is_floating_button": "true",
+        "is_floating_button": "false",
         "floating_button_style": "circular",
         "is_pull_refresh": "true",
         "tab_style": "simple_tab",
-        "clear_cookie": "false"
+        "clear_cookie": "false",
+        "app_logo": "http:\/\/mightyweb.apps\/upload\/app_logo.png"
     },
     "admob": {
         "admobBannerID": "",
@@ -53,10 +54,21 @@
             "title": "About",
             "type": "sidedrawer",
             "image": "http:\/\/mightyweb.apps\/upload\/menu\/1618655222-icon_4.png",
-            "url": "https:\/\/themeforest.net\/user\/meetmighty",
+            "url": "https:\/\/madtech.cc",
             "status": "1",
             "parent_id": "0",
-            "children": []
+            "children": [
+                {
+                    "id": "8",
+                    "title": "Info",
+                    "type": "sidedrawer",
+                    "image": "http:\/\/mightyweb.apps\/upload\/menu\/default.png",
+                    "url": "https:\/\/madtech.cc",
+                    "status": "1",
+                    "parent_id": "7",
+                    "children": []
+                }
+            ]
         }
     ],
     "header_icon": {
@@ -122,7 +134,7 @@
                 "value": "ic_search",
                 "image": "ic_search.png",
                 "type": "url",
-                "url": "https:\/\/www.google.com\/",
+                "url": "https:\/\/godsearth.cc\/?s=",
                 "status": "0",
                 "created_at": "2021-04-09 05:20:36",
                 "updated_at": "2021-04-09 05:20:36"
@@ -158,7 +170,7 @@
                 "image": "ic_search.png",
                 "type": "url",
                 "url": "https:\/\/www.google.com\/",
-                "status": "1",
+                "status": "0",
                 "created_at": "2020-06-07 21:48:16",
                 "updated_at": "2020-06-07 21:48:16"
             },
@@ -191,7 +203,7 @@
                 "image": "ic_share.png",
                 "type": "event",
                 "url": null,
-                "status": "0",
+                "status": "1",
                 "created_at": "2020-06-07 21:46:42",
                 "updated_at": "2020-06-07 21:46:42"
             },
@@ -310,16 +322,16 @@
     "walkthrough": [
         {
             "id": "1",
-            "title": "Mighty Web",
-            "subtitle": "MightyWeb app is used to convert your Website to Application Mobile",
-            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/default.png",
+            "title": "GodsEarth",
+            "subtitle": "A trip around God's Earth",
+            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/1626281352-logo.png",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Theme Style",
-            "subtitle": "Mighty Web holds stunning options of Theme styles that you can apply to your mobile app to define your app better.",
-            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/default.png",
+            "subtitle": "GodsEarth holds stunning options of Theme styles that you can apply to your mobile app to define your app better.",
+            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/1626281377-logo.png",
             "status": "1"
         }
     ],
