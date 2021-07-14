@@ -52,7 +52,7 @@
             "id": "1",
             "title": "Home",
             "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/1618040510-ic_home.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040510-ic_home.png",
             "url": "https:\/\/meetmighty.com\/mightywebbuilder",
             "status": "1",
             "parent_id": "0",
@@ -62,7 +62,7 @@
             "id": "2",
             "title": "Search",
             "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/1618040523-ic_search.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040523-ic_search.png",
             "url": "https:\/\/codecanyon.net\/user\/meetmighty\/portfolio",
             "status": "1",
             "parent_id": "0",
@@ -72,7 +72,7 @@
             "id": "3",
             "title": "Cart",
             "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/1618040544-ic_cart.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040544-ic_cart.png",
             "url": "https:\/\/www.myntra.com\/",
             "status": "1",
             "parent_id": "0",
@@ -82,7 +82,7 @@
             "id": "4",
             "title": "Settings",
             "type": "bottom_navigation",
-            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/upload\/menu\/1618040565-ic_settings.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/menu\/1618040565-ic_settings.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1",
             "parent_id": "0",
@@ -342,14 +342,14 @@
             "id": "1",
             "title": "GodsEarth",
             "subtitle": "A trip around God's Earth",
-            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/1626281352-logo.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/walkthrough\/1626281352-logo.png",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Theme Style",
             "subtitle": "GodsEarth holds stunning options of Theme styles that you can apply to your mobile app to define your app better.",
-            "image": "http:\/\/mightyweb.apps\/upload\/walkthrough\/1626281377-logo.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/walkthrough\/1626281377-logo.png",
             "status": "1"
         }
     ],
@@ -357,28 +357,28 @@
         {
             "id": "1",
             "title": "Search",
-            "image": "http:\/\/mightyweb.apps\/upload\/floatingbutton\/ic_search.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/floatingbutton\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Message",
-            "image": "http:\/\/mightyweb.apps\/upload\/floatingbutton\/ic_message.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/floatingbutton\/ic_message.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Share",
-            "image": "http:\/\/mightyweb.apps\/upload\/floatingbutton\/ic_share.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/floatingbutton\/ic_share.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Home",
-            "image": "http:\/\/mightyweb.apps\/upload\/floatingbutton\/ic_home.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/floatingbutton\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
@@ -387,28 +387,28 @@
         {
             "id": "1",
             "title": "Home",
-            "image": "http:\/\/mightyweb.apps\/upload\/tabs\/ic_home.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/tabs\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Search",
-            "image": "http:\/\/mightyweb.apps\/upload\/tabs\/ic_search.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/tabs\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Profile",
-            "image": "http:\/\/mightyweb.apps\/upload\/tabs\/ic_profile.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/tabs\/ic_profile.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Wishlist",
-            "image": "http:\/\/mightyweb.apps\/upload\/tabs\/ic_heart.png",
+            "image": "https:\/\/raw.githubusercontent.com\/mobber007\/godsearth-app-config\/main\/tabs\/ic_heart.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
