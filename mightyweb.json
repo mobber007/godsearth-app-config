@@ -7,7 +7,7 @@
         "isSplashScreen": "true",
         "isZoomFunctionality": "false",
         "navigationStyle": "sidedrawer",
-        "header_style": "emptyheader",
+        "header_style": "empty_header",
         "is_walkthrough": "true",
         "is_webrtc": "false",
         "is_floating_button": "false",
